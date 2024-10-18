@@ -1,27 +1,69 @@
 1. Weather APIs
+
 OpenWeatherMap: Provides current weather, forecasts, and historical data.
+
 WeatherAPI: Offers real-time weather data, including forecasts and historical info.
+
 Windy API: Delivers weather information, especially wind and pressure, useful for air and traffic conditions.
+
+
+
 2. Real-time Traffic APIs
+
 TomTom: Provides real-time traffic, incidents, and route calculation.
+
 Here API: Offers real-time traffic data and incident reporting.
+
 Google Maps API: Real-time traffic information and route optimization.
+
 Mapbox Traffic API: Provides live traffic data for route planning and navigation.
+
+
+
+
+
+
 3. Geospatial and Mapping Libraries
+
 Mapbox GL JS: Interactive map visualizations with traffic overlays and route planning.
+
 Google Maps API: Maps, directions, and real-time traffic updates.
+
 Leaflet: Open-source JavaScript library for mobile-friendly interactive maps.
+
 OpenStreetMap (OSM): Open-source geospatial data for maps and routing.
+
+
+
+
+
 4. Satellite and Aerial Imagery
+
 Google Earth Engine: Satellite imagery and geospatial data analysis at scale.
+
 Sentinel Hub: Provides access to Sentinel satellite imagery for Earth observation.
+
 NASA Worldview: Open-source access to NASA's Earth satellite data.
+
+
+
 5. Event Calendar APIs
+
 Eventbrite API: Get data on upcoming events that might affect traffic.
+
 Ticketmaster API: Provides event details that can impact congestion.
+
+
+
+
 6. Public Transportation Data
+
 TransitLand API: Aggregates public transportation data (buses, trains).
+
 Google Transit API: Offers transit route information and schedules.
+
 Citymapper API: Provides public transit data for various cities.
+
 OpenWeatherMap API: Get real-time weather data (easy to use).
+
 TomTom Traffic API: Get traffic data for your prediction model.
