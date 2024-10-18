@@ -1,3 +1,7 @@
 44k intersections and most of them get congested because of lack of traffic lights
 Our portable traffic lights inbuilt with IOT sensors and camera (rasberry pie) can be deployed during peek hours
 These traffic lights will not only control traffic on that intersection but also collect data related to congestion
+
+1. Hardware Costs:
+Raspberry Pi with Camera: Typically costs around $50-$100 for the Pi, camera module, and accessories. The Raspberry Pi Camera is cost-effective but has limited processing power.
+AI-Driven Camera System: These systems often require specialized hardware, such as Nvidia Jetson devices or dedicated AI cameras, which can cost anywhere from $300 to $1,000 or more, depending on the level of capability. AI-enabled IP cameras can also add to the cost.
