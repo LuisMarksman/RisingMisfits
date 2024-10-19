@@ -1,3 +1,33 @@
 cars.xml Taken from andrewsobral (Public repository)
 most of the code in other files is taken from ChatGPT
 Leaflet.js ,  Bootstrap , Google fonts etc and many more ( copied directly from ChatGPT)
+https://images.unsplash.com/photo-1508051123996-69f8caf4891e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHRyYWZmaWN8ZW58MHx8fHwxNjE3NTI2OTkw&ixlib=rb-1.2.1&q=80&w=1080'); /* Traffic-related hero image */
+https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDE2fHx0cmFmZmljfGVufDB8fHx8MTY0Njg2ODc3Mw&ixlib=rb-1.2.1&q=80&w=1080" alt="Traffic Machine Learning
+https://th.bing.com/th/id/OIP.tO3va5tVh2FDQRm0zTtUNQHaFW?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" 
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
+`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${weatherApiKey}&units=metric
+
+<link rel="stylesheet" href="about.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<link rel="stylesheet" href="contact.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+https://th.bing.com/th/id/OIP.tO3va5tVh2FDQRm0zTtUNQHaFW?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7
+
+<link rel="stylesheet" href="report.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
